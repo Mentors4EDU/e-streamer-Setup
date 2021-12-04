@@ -6,7 +6,7 @@
 
 - [Node.js](https://nodejs.org/en/download/)
 - [Angular CLI](https://cli.angular.io/)
-- ffmpeg
+- [ffmpeg](http://www.ffmpeg.org/download.html#get-sources)
 - [gpac 0.8.0](https://gpac.wp.imt.fr/downloads/)
 
 ## Setup
